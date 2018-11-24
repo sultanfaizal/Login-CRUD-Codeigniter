@@ -1,0 +1,5 @@
+	 Login + CRUD Codeigniter
+1.create a database with the name "codeigniter".
+2.uload the "Codeigniter.sql" in folder "database nya" to database.
+3.turn on xampp and go to "localhost / Tugasuts" in your browser.
+4.Done
